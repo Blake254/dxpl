@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Blake254/dxpl/static/css/main.073c9b0a.css",
+    "main.js": "/Blake254/dxpl/static/js/main.eda8527e.js",
+    "static/js/787.60c4c043.chunk.js": "/Blake254/dxpl/static/js/787.60c4c043.chunk.js",
+    "static/media/logo.svg": "/Blake254/dxpl/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Blake254/dxpl/index.html",
+    "main.073c9b0a.css.map": "/Blake254/dxpl/static/css/main.073c9b0a.css.map",
+    "main.eda8527e.js.map": "/Blake254/dxpl/static/js/main.eda8527e.js.map",
+    "787.60c4c043.chunk.js.map": "/Blake254/dxpl/static/js/787.60c4c043.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.eda8527e.js"
+  ]
+}
